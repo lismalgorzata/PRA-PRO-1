@@ -1,0 +1,17 @@
+{
+    "Name": "Yoon Oh",
+    "Surname": "Jeong",
+    "Birthday": {
+        "Month": "February",
+        "Day": 14
+    },
+    "Birthyear": 1997,
+    "Address": {
+        "Street_name": "ABCabc",
+        "House_num": 22,
+        "Flat_num": null
+    },
+    "Male": true,
+    "Grade": 4,
+    "Major": "Music production"
+}

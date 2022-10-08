@@ -1,0 +1,15 @@
+import queue
+
+queue.display()
+queue.push(2)
+queue.push(14)
+queue.push(9)
+queue.display()
+queue.get()
+queue.display()
+queue.push(31)
+queue.push(6)
+queue.display()
+queue.get()
+queue.get()
+queue.display()
