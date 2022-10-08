@@ -1,0 +1,15 @@
+import ebook
+
+eb=ebook.ebook('Zmierzch','Osamu Dazai',126)
+eb.open_book()
+eb.show_status()
+eb.read_book()
+eb.read_book()
+eb.read_book()
+eb.read_book()
+eb.show_status()
+eb.read_book()
+eb.read_book()
+eb.show_status()
+eb.close_book()
+eb.read_book()
